@@ -35,7 +35,6 @@ bool check(int a[N][N], int row, int col)
             return false;
     return true;
 }
-
 void print(int a[N][N])
 {
     for (int i = 0; i < N; i++) {
