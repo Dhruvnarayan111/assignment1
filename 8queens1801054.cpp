@@ -64,7 +64,6 @@ bool validity(chessboard &tt){
 
 void findstate(queue<chessboard> &q1){
 	chessboard tt;
-	bool oc=true;
 	tt=q1.front();
 	q1.pop();
 	int q=tt.queens;
