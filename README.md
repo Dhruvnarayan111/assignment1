@@ -1,4 +1,5 @@
-                                            Assignment:Problem Solving 8-Queens problem
+                                            
+                                            Assignment : Solving 8-Queens problem 
 
 
 
