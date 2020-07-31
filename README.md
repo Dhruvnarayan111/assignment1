@@ -1,4 +1,6 @@
-Assignment:Problem Solving 8-Queens problem
+                                            Assignment:Problem Solving 8-Queens problem
+
+
 
 State Space : 8*8 matrix precence of queen is represented by q1 
 
