@@ -2,7 +2,7 @@
 
 
 
-State Space : 8*8 matrix precence of queen is represented by q1 
+State Space : 8*8 matrix presence of queen is represented by q1 
 
 State transition operator: addition of new queen on each throw
 
